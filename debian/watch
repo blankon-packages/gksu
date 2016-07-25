@@ -1,0 +1,2 @@
+version=3
+http://www.nongnu.org/gksu .*/gksu-(\d.*?)(?:[\.\-]src)?.(?:tgz|tbz2|txz|tar\.(?:gz|bz2|xz)).*
